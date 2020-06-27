@@ -15,11 +15,9 @@ data class AnalyticInfo(
     val max: BigDecimal,
     val sum: BigDecimal
 )
-data class GetAllResponse(
-    val list: List<Answer>
-)
 
 fun BigDecimal.sc(): BigDecimal {
   return this.setScale(2, RoundingMode.HALF_UP)
 }
+
 
