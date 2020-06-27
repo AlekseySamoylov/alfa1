@@ -1,0 +1,31 @@
+key1:{"ref":"ref1", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_1", "amount":10.0}
+
+key2:{"ref":"ref2", "categoryId":2, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_2", "amount":350.56}
+
+key3:{"ref":"ref3", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_3", "amount":700.0}
+
+key4:{"ref":"ref4", "categoryId":3, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_4", "amount":5.99}
+
+key5:{"ref":"ref5", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_5", "amount":10.0}
+
+key6:{"ref":"ref6", "categoryId":2, "userId":"User_2", "recipientId":"User_3", "desc":"Тестовый платеж_6", "amount":350.56}
+
+key7:{"ref":"ref7", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_7", "amount":890.0}
+
+key8:{"ref":"ref8", "categoryId":3, "userId":"User_3", "recipientId":"User_2", "desc":"Тестовый платеж_8", "amount":35.99}
+
+key9:{"ref":"ref9", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_9", "amount":890.0}
+
+key10:{"ref":"ref10", "categoryId":3, "userId":"User_3", "recipientId":"User_2", "desc":"Тестовый платеж_10", "amount":35.9910}
+
+key11:{"ref":"ref11", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_11", "amount":10.0}
+
+key12:{"ref":"ref12", "categoryId":2, "userId":"User_2", "recipientId":"User_3", "desc":"Тестовый платеж_12", "amount":350.56}
+
+key13:{"ref":"ref13", "categoryId":1, "userId":"User_1", "recipientId":"User_2", "desc":"Тестовый платеж_13", "amount":10.0}
+
+key14:{"ref":"ref14", "categoryId":2, "userId":"User_2", "recipientId":"User_3", "desc":"Тестовый платеж_14", "amount":350.56}
+
+key15:{"ref":"ref15", "categoryId":4, "userId":"User_1", "recipientId":"User_4", "desc":"Тестовый платеж_15", "amount":15.00}
+
+
